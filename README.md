@@ -1,3 +1,8 @@
+# ⚠️ ARCHIVED ⚠️
+This project is no longer maintained. There are plenty of other dero miners which are much more performant. Use them.
+
+---
+
 # dero-stratum-miner
 
 [![lint](https://github.com/whalesburg/dero-stratum-miner/actions/workflows/lint.yml/badge.svg)](https://github.com/whalesburg/dero-stratum-miner/actions/workflows/lint.yml)
